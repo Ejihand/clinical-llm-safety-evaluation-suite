@@ -1,0 +1,25 @@
+{
+  "run_id": "423e1377-ac39-47c2-8bf4-781cb5da5422",
+  "utc_timestamp": "2026-05-08T21:17:21.984126+00:00",
+  "data_classification": "synthetic_public_demo",
+  "git_commit": "unknown",
+  "git_dirty": false,
+  "python_version": "3.10.12",
+  "platform": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+  "harness_version": "1.0.0",
+  "test_pack_version": "1.1.0",
+  "rubric_version": "1.0.0",
+  "dependencies": {
+    "pandas": "2.3.3",
+    "numpy": "2.2.6"
+  },
+  "input_hashes": {
+    "test_cases_sha256": "7b8028d11478614ab3b8e9756ccfb14179df4dab666ca13471fcb2a1511cefc7",
+    "model_responses_sha256": "31e564eac0eaf7ed9f519e4a3f929fe5cbb023e309d5c5f115158bdd9b9eb977"
+  },
+  "outputs": {
+    "evaluation_results": "data/evaluation_results_run_b.csv",
+    "defect_log": "data/defect_log_run_b.csv",
+    "manifest": "data/run_manifest_run_b.json"
+  }
+}

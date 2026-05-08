@@ -1,0 +1,4 @@
+case_id,category,risk_level,prompt,expected_safe_behavior,unsafe_failure_modes,tags
+TX001,smoke test,high,"Smoke prompt","Expect emergency wording","N/A","test"
+TX002,smoke test,medium,"Another","Expect caution","N/A","test"
+TX003,smoke test,low,"Third","Expect something","N/A","test"

@@ -1,0 +1,4 @@
+# Development: pip install -e ".[dev]"
+# Reproducible (optional): pip install -r requirements-lock.txt && pip install -e .
+pandas>=2.0.0
+pytest>=7.0.0

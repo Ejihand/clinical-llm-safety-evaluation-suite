@@ -1,0 +1,11 @@
+# Locked dependencies for reproducible installs (optional).
+# Generate a fresh lock in your environment with:
+#   pip install pip-tools
+#   pip-compile pyproject.toml -o requirements-lock.txt
+#
+# Or install editable from pyproject (recommended for development):
+#   pip install -e ".[dev]"
+
+pandas==2.2.3
+numpy==2.2.6
+pytest==8.3.4
